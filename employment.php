@@ -9,10 +9,13 @@
     </head>
     <body>
         <div id="header">
-            <h1>Create-Ability</h1>
+            <h1>Create-Ability, Inc.</h1>
         </div>
-        <div id="core">
+        <div id="comprehensive">
             <?php include('./includes/menu.inc.php'); ?>
+            
+            <div id="core">
+            </div>
             
             <?php include('./includes/footer.inc.php'); ?>
         </div>

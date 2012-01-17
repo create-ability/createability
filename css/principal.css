@@ -1,23 +1,81 @@
 h1
 {
-    text-align: center;
-    font-family: Arial;
+    font-family:Arial;
+    text-align:center;
+}
+
+#navigator
+{
+    position:absolute;
 }
 
 ul#navigator
 {
-    list-style: none;
-    margin: 0;
-    padding: 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+
+#navigator a
+{
+    display:block;
+    font-family:Arial;
+    font-variant:small-caps;
+    font-weight:bold;
+    padding-left:10px;
+    text-decoration:none;
+    width:150px;
+}
+
+#navigator a:link, #navigator a:visited
+{
+    color:#000000;
+}
+
+#navigator a:hover, #navigator a:active
+{
+    background-color:#000000;
+    color:#FFFFFF;
 }
 
 a#focused
 {
-    background-color: transparent !important;
-    color: #FF0000!important;
+    background-color:transparent !important;
+    color:#FF0000 !important;
 }
 
-div#footer
+#footer
 {
-    color: #000000!important;
+    clear:both;
+    color:#000000;
+    margin:2% 0 0 0;
+    text-align:center;
+}
+
+#footer p
+{
+	margin-bottom:0;
+	font-size:90%;
+	font-weight:bold;
+}
+
+div#comprehensive
+{
+    font-family:Arial;
+    margin:30px 0 0 0;
+}
+
+div#core
+{
+    margin:0 5% 0 200px;
+    min-width:975px;
+    max-width:1075px;
+}
+
+iframe#googlemaps
+{
+    color:#0000FF;
+    float:left;
+    margin: 0 20px 20px 20px;
+    text-align:left;
 }
