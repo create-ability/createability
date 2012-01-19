@@ -6,7 +6,7 @@
         <meta charset="UTF-8">
         <title>Create-Ability, Inc.<?php if (isset($title)) { echo "&#8212;{$title}"; } ?></title>
         <meta name="description" content="Create-Ability, Inc. is a private non-profit agency established in 1995 to provide residential and supported employment services to adults with developmental disabilities who live in Dane County." />
-        <meta name="keywords" content="Wisconsin Section 51.01(5)(a), Madison, Dane, Wisconsin" />
+        <meta name="keywords" content="Wisconsin Section 51.01(5)(a), non-profit, adult developmental disabilities, supported living, supported employment, Madison, Dane, Wisconsin" />
         <link href="./css/principal.css" rel="stylesheet" type="text/css" media="screen">
     </head>
     <body>
