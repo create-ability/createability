@@ -4,6 +4,11 @@ h1
     text-align:center;
 }
 
+img#logo
+{
+    position:absolute;
+}
+
 #navigator
 {
     position:absolute;
@@ -35,7 +40,7 @@ ul#navigator
 #navigator a:hover, #navigator a:active
 {
     background-color:#000000;
-    color:#FFFFFF;
+    color:#B2B5AE;
 }
 
 a#focused
@@ -46,23 +51,25 @@ a#focused
 
 #footer
 {
+    bottom:0;
     clear:both;
     color:#000000;
     margin:2% 0 0 0;
+    position:relative;
     text-align:center;
 }
 
 #footer p
 {
 	margin-bottom:0;
-	font-size:90%;
+	font-size:85%;
 	font-weight:bold;
 }
 
 div#comprehensive
 {
     font-family:Arial;
-    margin:30px 0 0 0;
+    margin:45px 0 0 0;
 }
 
 div#core

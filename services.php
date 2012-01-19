@@ -8,9 +8,8 @@
         <link href="./css/principal.css" rel="stylesheet" type="text/css" media="screen">
     </head>
     <body>
-        <div id="header">
-            <h1>Create-Ability, Inc.</h1>
-        </div>
+        <?php include('./includes/header.inc.php'); ?>
+        
         <div id="comprehensive">
             <?php include('./includes/menu.inc.php'); ?>
             
