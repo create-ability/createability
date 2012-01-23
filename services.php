@@ -5,7 +5,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Create-Ability, Inc.<?php if (isset($title)) { echo "&#8212;{$title}"; } ?></title>
-        <link href="./css/principal.css" rel="stylesheet" type="text/css" media="screen">
+        <link href="./css/principal.css" rel="stylesheet" type="text/css" media="screen" />
     </head>
     <body>
         <?php include('./includes/header.inc.php'); ?>
