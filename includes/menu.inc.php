@@ -6,3 +6,11 @@
     <li><a href="employment.php" <?php if ($currentPage == 'employment.php') { echo 'id="focused"'; } ?>>Employment</a></li>
     <li><a href="contact_us.php" <?php if ($currentPage == 'contact_us.php') { echo 'id="focused"'; } ?>>Contact Us</a></li>
 </ul>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<img id="navigator" src="./images/dane_county_logo.jpg" alt="Dane County, Wisconsin" />

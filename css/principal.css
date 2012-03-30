@@ -24,7 +24,10 @@ p
 
 #header h1
 {
+    background-color:#808080;
     font-family:Arial;
+    margin:0 600px;
+    padding:5px;
     position:relative;
     text-align:center;
 }
@@ -35,7 +38,7 @@ p
     position:fixed;
 }
 
-#header a:link, #navigator a:visited
+#header a:link, #header a:visited
 {
     color:#000000;
 }
