@@ -18,8 +18,6 @@
             <div id="core">
                 <p><h3>Content pending.</h3></p>
             </div>
-            
-            <?php include('./includes/footer.inc.php'); ?>
         </div>
     </body>
 </html>

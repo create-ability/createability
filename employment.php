@@ -37,8 +37,6 @@
                 <p>We are looking for employees who are dedicated to assisting the individuals we support in achieving the life-style the individuals prefer.  We expect our staff to assist individuals with dignity and respect, as well as follow their specific support needs.   We are looking for staff who are interested in exploring new opportunities with people and helping them to be full members of the Madison area community.</p>
                 <p>If you are interested in finding out more about employment with Create-Ability and Channels to Employment, please contact our recruiter, Lesley Bollig, at 608-280-0206 ext. 233 or at <a href="mailto:lesleyb@create-ability.org">lesleyb@create-ability.org</a>.  You may download a copy of our <a href="./documents/employment_application.doc">employment application</a> and send it to Lesley via e-mail or by US mail at 122 E. Olin Ave., Suite 255, Madison, WI, 53713.</p>
             </div>
-            
-            <?php include('./includes/footer.inc.php'); ?>
         </div>
     </body>
 </html>

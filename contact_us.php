@@ -27,8 +27,6 @@ $mobileDetect = new Mobile_Detect();
                 <p><h3>General Contact</h3>Create-Ability, Inc.<br />122 E Olin Ave Suite 255<br />Madison, WI 53713</p>
                 <p><b>Phone:</b> <?php if ($mobileDetect->isMobile()) { echo '<a href="tel:6082800206">608-280-0206</a>'; } else { echo '608-280-0206'; } ?><br /><b>Fax:</b> 608-280-0213</p>
             </div>
-            
-            <?php include('./includes/footer.inc.php'); ?>
         </div>
     </body>
 </html>
